@@ -1,0 +1,8 @@
+paso 1: ejecutar el siguiente comando:
+"git clone {url del repositorio} ./webPython"
+paso 2: ejecutar el archivo setup.bat/sh
+paso 3: programar
+
+para iniciar la app ejecutar "reflex run"
+
+para instalar/remover/actualizar un paquete ejecutar pipx.bat/sh
