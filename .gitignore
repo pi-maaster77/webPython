@@ -3,4 +3,5 @@
 .fake
 .venv
 .web
+.env
 __pycache__/
